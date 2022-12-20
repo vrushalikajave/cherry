@@ -1,0 +1,37 @@
+.main {
+  background-color: #a44cd3;
+}
+.innerDiv {
+  display: flex;
+  background-color: aliceblue;
+  width: 95%;
+  background-color: #a44cd3;
+  margin: auto;
+  justify-content: space-around;
+  padding: 20px;
+  font-weight: bolder;
+}
+.activity {
+}
+.abc {
+}
+.standard {
+  color: white;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+}
+.para {
+  width: 50%;
+  color: white;
+  font-weight: lighter;
+  font-size: 10px;
+}
+.dotsDiv {
+  border: dotted;
+  color: white;
+  width: 30%;
+  padding: 20px;
+}
+.choosemedium {
+  color: white;
+}
